@@ -1,7 +1,7 @@
 # About
 I am a PhD economist from [Washington State University's School of Economic Sciences](https://ses.wsu.edu/), specializing in econometrics and industrial organization. With over 10 years of experience spanning consulting, industry, academia, and government sectors, I bring a comprehensive background to my work.
 
-My research has focused on applied econometrics and statistical methods, making contributions to [new econometric methods](https://www.mdpi.com/2225-1146/10/1/5) and applications in various areas such as resource, food, [labor, and health economics](https://journals.sagepub.com/doi/abs/10.1177/0019793915586974). 
+My research has focused on applied econometrics and statistical methods, making contributions to new econometric methods and applications in various areas such as resource, food, [labor, and health economics](https://journals.sagepub.com/doi/abs/10.1177/0019793915586974). 
 
 My dissertation involved various econometric analyses of choice behavior of consumers and households facing discrete and dynamic choice processes, respectively. For example, it provided the first empirical application of an innovative [semi-parametric binary response estimator](https://doi.org/10.1016/j.wre.2017.10.006), which I applied to estimate the willingness to pay for recreation demand using a stated-preference contingent valuation survey dataset. 
 
