@@ -9,4 +9,4 @@ During an internship at the [USDA's Economic Research Service (ERS), Branch of D
 
 Previously, I dedicated seven years to economic consulting, supporting antitrust litigation cases. My work entailed utilizing causal inference methods and econometric analyses to evaluate market power in instances alleging anticompetitive conduct by manufacturers. Additionally, I quantified economic damages and assessed allegations of improper marketing and fraudulent drug promotion using advanced analytical methods, ranging for example from time-series and panel data models to demand system estimation.
 
-I am originally from Chile and enjoy outdoor activities, though I don't get to spend as much time outside as I would like.
+I am originally from [Chile](https://unsplash.com/s/photos/chile) and enjoy outdoor activities, though I don't get to spend as much time outside as I would like.
