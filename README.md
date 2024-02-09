@@ -1,5 +1,5 @@
-## About
-I am a PhD economist from [Washington State University's School of Economic Sciences](https://ses.wsu.edu/), specializing in econometrics and industrial organization. With over 10 years of experience spanning consulting, industry, academia, and government sectors, I bring a comprehensive background to my work.
+## Background
+I am a PhD economist from [Washington State University's School of Economic Sciences](https://ses.wsu.edu/), specializing in econometrics with over 10 years of experience spanning consulting, industry, academia, and government sectors.
 
 My research has focused on applied econometrics and statistical methods, making contributions to new econometric methods and applications in various areas such as resource, food, labor, and health economics. For example, while working in the Department of Healthcare Policy and Research at the School of Medicine at Virginia Commonwealth University, I was involved in research projects related to [health insurance and employment](https://journals.sagepub.com/doi/abs/10.1177/0019793915586974). In a recent published paper available at the [World Health Organization COVID-19 Research Database](https://search.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/en/covidwho-2162613), my co-author and I utilized a spatial econometric model to analyze the effect of county-level socioeconomic and demographic factors on the spatial spread of COVID-19 in the US during the early months of the pandemic. 
 
